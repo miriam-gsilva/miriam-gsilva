@@ -28,10 +28,17 @@ _**"Os esforçados superam os inteligentes" - Tanaka, José.**_
 </p>
 
 ## Certificados
+### Cisco
+- CCNA: Introduction to Networks
 <p align="left">
   <a href="https://www.credly.com/badges/a18ff452-bc47-4523-ac1f-cd00cebc52fb/public_url" target="_blank">
     <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" height="120"/>
-    
-| Certificacao | Nome |
-| --- | --- |
-| ![CISCO CCNA](https://img.shields.io/badge/CISCO_CCNA_ITN-t?logo=cisco&labelColor=white&color=white&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa18ff452-bc47-4523-ac1f-cd00cebc52fb%2Fpublic_url) | CCNA Introduction to Networks | 
+  </p>
+
+### AWS
+- AWS Academy Cloud Foundations
+<p align="left">
+  <a href="https://www.credly.com/badges/6c75b864-7aa7-4b1e-9ea8-37796d9320b1/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Cloud Foundations" height="120"/>
+</p>
+
