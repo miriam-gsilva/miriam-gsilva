@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=32&duration=6000&pause=2000&color=F9CEFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Cloud+Engineer+%7C+SRE+%F0%9F%A4%96">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Outfit&weight=300&size=21&pause=1000&color=AF69CD&center=true&vCenter=true&width=435&lines=Redes+de+Computadores">
 </p>
 
 ## Sobre mim
