@@ -28,6 +28,10 @@ _**"Os esforçados superam os inteligentes" - Tanaka, José.**_
 </p>
 
 ## Certificados
+<p align="left">
+  <a href="https://www.credly.com/badges/a18ff452-bc47-4523-ac1f-cd00cebc52fb/public_url" target="_blank">
+    <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" height="120"/>
+    
 | Certificacao | Nome |
 | --- | --- |
 | ![CISCO CCNA](https://img.shields.io/badge/CISCO_CCNA_ITN-t?logo=cisco&labelColor=white&color=white&link=https%3A%2F%2Fwww.credly.com%2Fbadges%2Fa18ff452-bc47-4523-ac1f-cd00cebc52fb%2Fpublic_url) | CCNA Introduction to Networks | 
